@@ -1,5 +1,5 @@
 1. Descrição do Projeto:
-O projeto consiste na prática de Kotlin, desenvolvemos essas aplicação com o intuito de navegação entre telas, aplicativo que permite essa interação feita pelo usuário, que seja de maneira fluída e simples
+O projeto consiste na prática de Kotlin, desenvolvemos essas aplicação com o intuito de navegação entre telas, aplicativo que permite essa interação feita pelo usuário, que seja de maneira fluída e simples.
 
 2. Objetivo da prova: 
 Implementação de novas funcionalidade no nosso aplicativo, mas além disso, explicar sobre como funciona o código, para que serve as funcionalidades implementadas e como elas foram implementadas.
@@ -21,7 +21,7 @@ Por padrão deixei o nome 'Basilio" para ser exibido, também foram feitas mudan
 Feat: Inserção de valor sobre o parametro opcional sobre a tela de pedidos
 
 No terceiro commit, foi inserido um valor sobre o parâmetro opcional que criamos anteriormente, 
-agora o cliente passa a receber um valor, portanto agora validamos a passagem de dados, realizei essas alterações sobre a tela de MenuScreen
+agora o cliente passa a receber um valor, portanto agora validamos a passagem de dados, realizei essas alterações sobre a tela de MenuScreen.
 
 Feat: Implementação de mais parâmetros
 
@@ -29,6 +29,6 @@ No quarto commit, coloquei mais parâmetros além dos anteriormente adicionados,
 a nossa rota agora teve uma adaptação para receber novos argumentos, 
 "nome" e "idade",  foram feitas mudanças na estrutura do código Main, PerfilScreen e MenuScreen, 
 foi feito um Mock novamente para assegurar um correto funcionamento do código, coloquei o nome "Basilio" e a idade "80",
-para a tipagem foi utilizado o NavType
+para a tipagem foi utilizado o NavType.
 
 
