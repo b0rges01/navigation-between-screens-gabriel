@@ -1,3 +1,11 @@
+1. Descrição do Projeto:
+O projeto consiste na prática de Kotlin, desenvolvemos essas aplicação com o intuito de navegação entre telas, aplicativo que permite essa interação feita pelo usuário, que seja de maneira fluída e simples
+
+2. Objetivo da prova: 
+Implementação de novas funcionalidade no nosso aplicativo, mas além disso, explicar sobre como funciona o código, para que serve as funcionalidades implementadas e como elas foram implementadas.
+
+3. Explicação da Evolução da prova:
+
 Feat: Passagem de parametros oobrigatórios sobre a tela de PerfilScreen
 
 Nesse primeiro commit, realizo a implementação de alguns parâmetros e permito que ocorra a comunicação entre telas do nosso aplicativo que estamos desenvolvendo,
